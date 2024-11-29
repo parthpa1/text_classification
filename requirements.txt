@@ -1,0 +1,13 @@
+streamlit
+joblib
+pandas
+numpy
+nltk
+requests
+PyPDF2
+pdfminer.six
+textract
+pytesseract
+Pillow
+pdf2image
+scikit-learn
