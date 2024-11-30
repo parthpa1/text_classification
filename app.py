@@ -7,7 +7,7 @@ label_encoder_path = 'label_encoder.joblib'
 pipeline = InferencePipeline(model_path, label_encoder_path)
 
 # Streamlit app
-st.title("PDF Classification Inference Pipeline")
+st.title("PDF Classification Inference")
 
 # Input for PDF URL
 pdf_url = st.text_input("Enter the PDF URL:")
